@@ -1,0 +1,6 @@
+=== Titulo de Ayuda==
+1-Para ingresar al sistema debe primer agregar su
+  nombre
+  apellido
+  dni
+  
